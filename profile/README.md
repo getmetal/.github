@@ -28,7 +28,7 @@ Our docs are open source and can be edited [here](https://github.com/getmetal/do
 
 ## Community
 
-- [Discord](https://discord.gg/PZuczkfR) - Join the Discord community.
+- [Discord](https://discord.gg/GHY3Y8tU3J) - Join the Discord community.
 - [Twitter](https://twitter.com/Metal_io) - Follow along or send us a tweet!
 
 ## License
